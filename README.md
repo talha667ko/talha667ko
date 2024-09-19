@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I was born in France and lived there for a while, but I'm in Turkey for studies.<br><br>- 📚 Currently studying at Kocaeli University (2023-Present).<br>- In my free time, I focus on enhancing my skills in coding, sports, and more.<br>- I can speak French, Turkish and English.<br><br>- My motto: "Chaque détails comptes!"</p>
+<p align="left">I was born in France and lived there for a while, but I'm in Turkey for studies.<br><br>- 📚 Currently studying at Kocaeli University (2023-Present).<br>- In my free time, I focus on enhancing my skills in coding, sports, and more.<br>- I can speak French, Turkish and English.<br><br>- My motto: "Chaque détail compte!"</p>
 
 ###
 
