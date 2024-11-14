@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Talha Korkmaz. I was born 6 June 2004, in France and lived there for a while.<br> But now I'm in Turkey for studies.<br><br>- 📚 Currently studying at Kocaeli University (2023-Present).<br>- In my free time, I focus on enhancing my skills in coding, sports, and more.<br>- My motto: "Chaque détail compte!".</p>
+<p align="left">My name is Talha Korkmaz. I was born in France and lived there for a while.<br> But now I'm in Turkey for studies.<br><br>- 📚 Currently studying at Kocaeli University (2023-Present).<br>- In my free time, I focus on enhancing my skills in coding, sports, and more.<br><b>- 💻 You can check out my projects; I have some upcoming ones that I’ll be posting soon, so STAY TUNED!!</b><br>- My motto: "Chaque détail compte!". 💎</p>
 
 ###
 
