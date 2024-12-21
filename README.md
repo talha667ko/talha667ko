@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talha667ko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=swift&hide_border=true&order=2" height="115" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talha667ko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=swift&hide_border=true&order=2" height="115" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=talha667ko&locale=fr&mode=daily&theme=swift&hide_border=false&border_radius=6&order=3" height="115" alt="streak graph" 
     />
 </div>
